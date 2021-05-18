@@ -307,7 +307,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Overthewire](http://overthewire.org/wargames/)
 - [Ctftime](https://ctftime.org/)
 
-([Table of Contents](#table-of-contents))
+[Table of Contents](#table-of-contents)
 
 # License
 
